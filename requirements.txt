@@ -1,10 +1,9 @@
-streamlit==1.64.0
-pandas==3.0.6
-numpy==2.5.3
+streamlit
+pandas
+numpy
 scikit-learn==1.6.1
-scipy==1.18.1
+scipy
 skops==0.14.0
-shap==0.52.0
-matplotlib==3.11.2
-seaborn==0.13.2
-evidently==0.7.23
+shap
+matplotlib
+seaborn
