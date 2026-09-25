@@ -29,11 +29,11 @@ GitHub
 
 ### Dashboard
 
-[Streamlit App Link]
+https://pvrmoviesuccesspredictor-jmown2zf7tgj2ymugowxt5.streamlit.app/ 
 
 ### Repository
 
-[GitHub Link]
+https://github.com/PranavTahsildar/PVR_Movie_Success_Predictor
 
 ### Responsible AI
 
